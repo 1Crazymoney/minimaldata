@@ -1,4 +1,5 @@
-var OPS = require('bitcoin-ops')
+//var OPS = require('bitcoin-ops')
+var OPS = require('bitcoincash-ops')
 var pushData = require('pushdata-bitcoin')
 
 // https://github.com/bitcoin/bitcoin/blob/master/src/script/script.h#L22
