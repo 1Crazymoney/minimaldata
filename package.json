@@ -1,5 +1,5 @@
 {
-  "name": "minimaldata",
+  "name": "@psf/minimaldata",
   "version": "1.0.2",
   "description": "A module to check bitcoin policy: SCRIPT_VERIFY_MINIMALDATA",
   "keywords": [
@@ -40,7 +40,7 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "bitcoincash-ops": "christroutner/bitcoincash-ops#2.0.0",
+    "@psf/bitcoincash-ops": "^2.0.0",
     "pushdata-bitcoin": "^1.0.1"
   }
 }
